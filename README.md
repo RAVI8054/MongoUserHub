@@ -9,8 +9,8 @@ This project is part of a backend assignment focusing on database connectivity, 
 ---
 ##✨Features
  - ✅ MongoDB Integration via Mongoose
-   -Connects to a MongoDB database using Mongoose ORM
-      -Schema-based model with built-in validation
+  -Connects to a MongoDB database using Mongoose ORM
+   -Schema-based model with built-in validation
  - 🔁 Full CRUD Operations with MongoDB
       -Create, Read, Update, and Delete users from the database
       -Uses MongoDB ObjectId for precise user targeting
