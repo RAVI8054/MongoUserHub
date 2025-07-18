@@ -9,29 +9,29 @@ This project is part of a backend assignment focusing on database connectivity, 
 ---
 ##✨Features
  - ✅ MongoDB Integration via Mongoose
-      Connects to a MongoDB database using Mongoose ORM
-      Schema-based model with built-in validation
+      -Connects to a MongoDB database using Mongoose ORM
+      -Schema-based model with built-in validation
  - 🔁 Full CRUD Operations with MongoDB
-      Create, Read, Update, and Delete users from the database
-      Uses MongoDB ObjectId for precise user targeting
+      -Create, Read, Update, and Delete users from the database
+      -Uses MongoDB ObjectId for precise user targeting
   - 🔍 Retrieve User Data
-      Fetch all users from the database
-      Fetch a specific user by their unique MongoDB ObjectId
+      -Fetch all users from the database
+      -Fetch a specific user by their unique MongoDB ObjectId
   - ➕ Add New Users
-      Accepts JSON input to create new user documents
-      Validates fields like firstName, lastName, and hobby
+      -Accepts JSON input to create new user documents
+      -Validates fields like firstName, lastName, and hobby
   - 🔄 Update Existing Users
-      Update user records via ObjectId
-      Includes validation on update requests
+      -Update user records via ObjectId
+      -Includes validation on update requests
   - ❌ Delete Users
-       Remove users by ObjectId
-       Responds with appropriate status and confirmation
+       -Remove users by ObjectId
+       -Responds with appropriate status and confirmation
   - 🧩 Advanced Middleware
-       Logs HTTP methods, request URLs, and status codes
-       Validates incoming data on POST and PUT requests
+       -Logs HTTP methods, request URLs, and status codes
+       -Validates incoming data on POST and PUT requests
   - 🛑 Robust Error Handling
-      Handles invalid ObjectIds, missing fields, and non-existent users
-      Uses HTTP status codes like 400, 404, 201, and 200 appropriately
+      -Handles invalid ObjectIds, missing fields, and non-existent users
+      -Uses HTTP status codes like 400, 404, 201, and 200 appropriately
  ---
 ##  🔗 API Endpoints
 - GET `/users` - List all users
