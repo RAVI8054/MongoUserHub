@@ -1,7 +1,9 @@
 ﻿# MongoUserHub
 ## 📌 Overview
-UserManagerAPI with MongoDB is an upgraded RESTful API built using Node.js, Express.js, and MongoDB (via Mongoose).  user management system by introducing persistent data storage and full CRUD functionality backed by a MongoDB database.
-This project is part of a backend assignment focusing on database connectivity, schema design, CRUD operations, advanced middleware, and robust API design practices.
+**UserManagerAPI with MongoDB** is an enhanced RESTful API built using **Node.js**, **Express.js**, and **MongoDB** (via **Mongoose**). It expands upon a basic user management system by introducing persistent data storage and full CRUD functionality backed by a MongoDB database.
+
+This project is part of a backend assignment focusing on database connectivity, schema design with validations, CRUD operations, advanced middleware implementation, and robust API design practices.
+
 ### 🔗 Project Links
 - 🗂️ GitHub Repo: [UserFlowAPI](https://github.com/RAVI8054/MongoUserHub)
 - 🌐 Live API (Deployed): [Visit Deployment](-)
