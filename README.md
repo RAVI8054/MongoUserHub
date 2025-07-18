@@ -66,7 +66,7 @@ UserFlowAPI/
 ### 🛠️Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RAVI8054/UserFlowAPI.git
+   git clone https://github.com/RAVI8054/MongoUserHub.git
    cd UserFlowAPI
 2. Install dependencies:
    ```bash
@@ -74,5 +74,10 @@ UserFlowAPI/
 3. Start the server:
    ```bash
    npm run start
+4. Open your browser and go to:
+    ```bash
+    http://localhost:3000
+---
+
 ---
 
